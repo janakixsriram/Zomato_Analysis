@@ -1,38 +1,38 @@
-﻿\# Zomato-Analysis
+Zomato-Analysis
 
-📊 Zomato Analysis Project
+Zomato Analysis Project
 
-🚀 Data Analysis | SQL | Power BI | Excel | Business Intelligence
+Data Analysis | SQL | Power BI | Excel | Business Intelligence
 
-📌 Project Overview
+Project Overview
 
 This project provides an in-depth data analysis of Zomato, focusing on its business model, market trends, and customer insights. Using SQL, Power BI, and Excel, I extracted, cleaned, and visualized data to uncover patterns in restaurant listings, food delivery trends, and market competition.
 
-📂 Files in this Repository
+Files in this Repository
 
-📌 Zomato SQL Code.sql → SQL queries for data extraction, transformation, and analysis.
+Zomato SQL Code.sql → SQL queries for data extraction, transformation, and analysis.
 
-📌 Power BI Dashboard of Zomato Analysis.pbix → Interactive Power BI dashboard.
+Power BI Dashboard of Zomato Analysis.pbix → Interactive Power BI dashboard.
 
-📌 Excel Dashboard of Zomato Analysis.xlsx → Excel-based analysis and visualizations.
+Excel Dashboard of Zomato Analysis.xlsx → Excel-based analysis and visualizations.
 
-📌 Zomato ANALYSIS PPT.pptx → Presentation summarizing key findings.
+Zomato ANALYSIS PPT.pptx → Presentation summarizing key findings.
 
-🔍 Key Insights & Findings
+Key Insights & Findings
 
-📌 Zomato Business Model → Covers food delivery, restaurant discovery, cloud kitchens, and marketing support.
+Zomato Business Model → Covers food delivery, restaurant discovery, cloud kitchens, and marketing support.
 
-📌 Market Trends → Analysis of restaurant openings per year and pricing strategies.
+Market Trends → Analysis of restaurant openings per year and pricing strategies.
 
-📌 Competitor Analysis → Comparison with Swiggy, Food Panda, and Eat Sure.
+Competitor Analysis → Comparison with Swiggy, Food Panda, and Eat Sure.
 
-📌 Growth Strategies → AI-driven enhancements, strategic partnerships, and customer engagement techniques.
+Growth Strategies → AI-driven enhancements, strategic partnerships, and customer engagement techniques.
 
-📌 Data-Driven Decision Making → Identifies trends that improve customer retention and operational efficiency.
+Data-Driven Decision Making → Identifies trends that improve customer retention and operational efficiency.
 
-🛠️ Tools & Technologies Used
+Tools & Technologies Used
 
-✅ SQL → Data extraction, aggregation, and filtering.
+SQL → Data extraction, aggregation, and filtering.
 
 ✅ Power BI → Dashboard visualization & storytelling.
 
@@ -66,21 +66,22 @@ LIMIT 5;
 
 (More SQL queries are included in the Zomato SQL Code.sql file.)
 
-📌 Business Recommendations
+Business Recommendations
 
-✔ AI & Chatbot Integration → Enhance ordering through WhatsApp, Alexa, and Google Assistant.
+AI & Chatbot Integration → Enhance ordering through WhatsApp, Alexa, and Google Assistant.
 
-✔ Expansion in Tier-2 Cities → Unlock new customer segments.
+Expansion in Tier-2 Cities → Unlock new customer segments.
 
-✔ Sustainability Initiatives → Reduce food waste through "Feeding India" program.
+Sustainability Initiatives → Reduce food waste through "Feeding India" program.
 
-✔ Customer Engagement → Loyalty rewards, gamification, and social food communities.
+Customer Engagement → Loyalty rewards, gamification, and social food communities.
 
-📩 Contact & Feedback
+Contact & Feedback
 
-📧 Email: sriramsegu2003@gmail.com
+Email: sriramsegu2003@gmail.com
 
-📢 If you find this project helpful, don’t forget to ⭐ the repository!
+If you find this project helpful, don’t forget to ⭐ the repository!
+
 
 
 
